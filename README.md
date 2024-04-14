@@ -1,6 +1,4 @@
-###An application for managing employee profiles using AWS services:
-
-![aws logo](https://github.com/AbhiGundim/AWS-Enabled-Employee-Profile-Management-System/assets/124610756/b9d3d8fa-3bb4-42da-9c97-2b39ecf44e56)
+### An application for managing employee profiles using AWS services
 
 
 ![pr21](https://github.com/AbhiGundim/AWS-Enabled-Employee-Profile-Management-System/assets/124610756/344b693b-460c-49e8-b2e2-4af56a65b878)
